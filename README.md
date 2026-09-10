@@ -146,7 +146,7 @@ pip install numpy scipy matplotlib
 ### Run the Simulation
 
 ```bash
-python viscoelastic_dns_verified_patch.py
+python viscoelastic_dns_verified.py
 ```
 
 ### Output Files
